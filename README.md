@@ -2,4 +2,4 @@
 
  based on asp.net core
  
- demo link: http://opmfaceidentity.chinacloudsites.cn/
+ demo link: http://opmtranslation.chinacloudsites.cn/swagger/ui/index.html#!/Translator/ApiTranslatorByTextGet 
