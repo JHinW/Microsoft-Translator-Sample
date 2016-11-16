@@ -1,0 +1,5 @@
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\obj\Debug\Microsoft.Translator.csprojResolveAssemblyReference.cache
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\bin\Debug\Microsoft.Translator.dll
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\bin\Debug\Microsoft.Translator.pdb
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\obj\Debug\Microsoft.Translator.dll
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\obj\Debug\Microsoft.Translator.pdb

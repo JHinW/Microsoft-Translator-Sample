@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "exports": {
+    "Microsoft.Translator/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Release/Microsoft.Translator.dll": {}
+      },
+      "runtime": {
+        "bin/Release/Microsoft.Translator.dll": {}
+      },
+      "contentFiles": {
+        "bin/Release/Microsoft.Translator.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}

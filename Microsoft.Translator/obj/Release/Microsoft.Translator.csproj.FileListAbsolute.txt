@@ -1,0 +1,4 @@
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\bin\Release\Microsoft.Translator.dll
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\bin\Release\Microsoft.Translator.pdb
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\obj\Release\Microsoft.Translator.dll
+E:\GitHub\learning\translator\Microsoft.Translator\Microsoft.Translator\obj\Release\Microsoft.Translator.pdb
